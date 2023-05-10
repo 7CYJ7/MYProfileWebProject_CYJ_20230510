@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body {
+	margin:0;
+	padding:0;
+}
+
+span.title01 {
+	font-size: 70px;
+	color: #284844;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+span.title02 {
+	font-size: 20px;
+	color: #0080ff;
+	font-family: Arial;
+	font-weight: normal;
+}
+
+span.skilltext01 {
+	font-size: 60px;
+	color: #0080ff;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+span.skilltext02 {
+	font-size: 40px;
+	color: rgb(0, 107, 215);
+	font-family: Arial;
+	font-weight: bold;
+}
+
+td.titlebox {
+	text-align: center;
+}
+
+td.skillbox {
+	background-color: #9de9ff;
+}
